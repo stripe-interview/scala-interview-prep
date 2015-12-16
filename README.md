@@ -3,11 +3,12 @@
 At Stripe, our interview process has some interviews where you write code,
 typically on your personal laptop.
 
-We'd rather not spend a significant portion of the interview waiting for SBT to
-download and cache all its dependencies on your laptop. We've created this
-simple example SBT project to help candidates determine if their laptops are
-setup to write and build Scala, so the interviews can be about evaluating the
-candidate, and not the way their environment is setup.
+We want to avoid spending a significant portion of the interview getting SBT
+setup on your laptop and waiting for it to download and cache all its
+dependencies. We've created this simple example SBT project to help candidates
+determine if their laptops are setup to write and build Scala, so the
+interviews can be about evaluating the candidate, and not the way their
+environment is setup.
 
 # Getting Ready
 
@@ -44,3 +45,6 @@ However, you can feel free to use your own SBT runner if you prefer.
 
  * [Getting Started with sbt](http://www.scala-sbt.org/release/tutorial/)
  * [Installing sbt on Windows](http://www.scala-sbt.org/0.13/tutorial/Installing-sbt-on-Windows.html)
+ * IDE Specific Instructions:
+   * [Intellij IDEA](https://www.jetbrains.com/idea/help/getting-started-with-sbt.html)
+   * [Eclipse / Scala IDE](http://scala-ide.org/docs/user/gettingstarted.html#Import_an_SBT_project)
