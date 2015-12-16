@@ -1,7 +1,11 @@
 package com.example
 
-object Main extends App {
+import scala.scalajs.js.JSApp
+
+object Main extends JSApp {
   def excite(s: String): String = s"$s!"
 
-  println(excite("Hello, world"))
+  def main(): Unit = {
+    println(excite("Hello, world"))
+  }
 }
