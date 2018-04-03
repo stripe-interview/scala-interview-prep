@@ -29,7 +29,7 @@ $ ./sbt
 SBT is the standard build tool in the Scala ecosystem. However, it is still
 common for many projects and organizations to use Maven, Pants, Gradle, etc.
 
-If you prefer a different build environemnt, that's awesome. Some interview
+If you prefer a different build environment, that's awesome. Some interview
 questions may ask to implement something from nothing, and some may want to
 watch you interact with a pre-existing codebase. For the former, it doesn't
 matter what you use, as long as you're able to get things setup quickly.
