@@ -24,7 +24,7 @@ $ ./sbt
 > run
 ```
 
-# About SBT and this this Project
+# About SBT and this Project
 
 SBT is the standard build tool in the Scala ecosystem. However, it is still
 common for many projects and organizations to use Maven, Pants, Gradle, etc.
