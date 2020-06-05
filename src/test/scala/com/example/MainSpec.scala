@@ -1,9 +1,8 @@
 package com.example
 
-import org.scalatest.{ WordSpec, Matchers }
+import org.scalacheck.Prop.propBoolean
 import org.scalatest.prop.Checkers
-import org.scalacheck._
-import org.scalacheck.Prop._
+import org.scalatest.{Matchers, WordSpec}
 
 class MainSpec extends WordSpec with Matchers with Checkers {
   "excite" should {
